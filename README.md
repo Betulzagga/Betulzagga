@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Betulzagga
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on self-learners.
 - 📫 How to reach me betulzagga@gmail.com
