@@ -2,8 +2,7 @@
 
 ### Data Analyst | Business Analytics | SQL • Python • Power BI
 
-I'm a data analytics professional with a background in Economics and an MSc in Science and Technology Policy Studies from Middle East Technical University (METU).
-
+I'm a data analytics professional with a Bachelor's degree in Economics from Hacettepe University and a Master's degree in Science and Technology Policy Studies from Middle East Technical University (METU).
 I combine analytical thinking, business knowledge, and technical skills to explore data, identify patterns, and translate findings into actionable business insights.
 
 ### 💻 Technical Skills
